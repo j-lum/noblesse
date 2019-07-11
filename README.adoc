@@ -1,0 +1,13 @@
+# Noblesse
+
+Noblesse is a sample repo to gauge the amount of effort required to add a GUI to an existing console-based application.
+
+## Setting up
+
+. Clone the repository
+. `./gradlew run`
+
+## Known design flaws
+. Existing code from level-8 is all placed under `logic`
+. UI components are too tightly coupled to logic
+
